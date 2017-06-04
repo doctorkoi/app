@@ -1,13 +1,13 @@
 # Application functional requirement set
 
- #### Customer name: <Text>
+ #### Customer name: <>
  ---
- *Type of application for the customer*
- #### Application type: <dentistry, nutrition, general>
+ *Type of application for the customer (e.g. `dentistry`, `nutrition`, `general`)*
+ #### Application type: <>
  ---
  *List of shareholders who will use the app, (e.g. `doctor`, `assistant`) along with a list of high-level functional requirements for each role*
- #### Role: <Text>
- #### Functional requirements: <List<Requirement>>
+ #### Role: <>
+ #### Functional requirements: <>
  
  ##### Example:
  > #### Role: doctor
